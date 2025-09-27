@@ -50,3 +50,6 @@ open _build/html/index.html  # Windows: start _build/html/index.html
 Сборка документации	cd docs && make html
 Локальный просмотр доков	открыть docs/_build/html/index.html
 
+Телеграм канал - https://t.me/RuslanSenatorov
+Телеграм-канал — https://t.me/SENATOROVAI
+
